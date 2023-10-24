@@ -1,0 +1,47 @@
+Ex 1:
+1_   13     int
+2_    2        int
+3_   11      int
+4_   35      int
+Ex 2 :
+ 1_   1010  long
+ 2_    6,5     float
+ 3_     10      char
+ 4_     8        float
+Ex 3 :
+1_   q=1
+2_    q=0
+3_     q=1
+4_     x=1
+5_     x=1.8
+6_     x=1.9
+7_      x=1
+8_      q=25
+9_       q=45
+Ex 4:
+   A : i= 1  n=0
+   B : i=11 n =11
+   C : i=21 j=6 n=120
+   D : i=18 n=18
+   E : i= 12 j=4 n=12
+Ex 5:
+   A : n=10 p=10 q=10 r=1
+   B : n=15 p =10 q=5 
+   C : n=15 p=11 q=10
+   D : n=16 p=11 q=15
+
+Ex 6:
+   A : n=6 p=2 q=1 
+   B : n=6 p =3 q=1 
+   C : n=6 p=2 q=0
+   D : n=6 p=3 q=1
+Ex 7 :
+A :  Nul
+B : petit
+C : Petit
+D : Moyen
+E : Grand
+F : Grand
+G :Grand
+Ex 8 :
+     3 fois
